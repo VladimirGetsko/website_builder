@@ -9,4 +9,4 @@ Launching the project in the browser:
 http://localhost:3000/
 
 Launching into production:
-$ npm run build
+$ <b>npm run build</b>
