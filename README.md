@@ -3,7 +3,7 @@
 *** Beginning of work ***
 
 Launching into development:
-$ npm run serve
+$ <b>npm run serve</b>
 
 Launching the project in the browser:
 http://localhost:3000/
